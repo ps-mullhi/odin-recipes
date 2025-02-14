@@ -26,3 +26,19 @@ p {
 .home-link {
     display: block;
 }
+
+.index-list {
+    display: inline-block;
+    margin: 0px 50px;
+    padding: 20px;
+    border: 2px solid black;
+}
+
+#index-heading {
+    margin: 50px 0px;
+}
+
+.list-box {
+    text-align: center;
+    margin-top: 200px;
+}
