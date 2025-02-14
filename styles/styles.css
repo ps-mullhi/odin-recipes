@@ -22,3 +22,7 @@ ul {
 p {
     border: 1px outset black;
 }
+
+.home-link {
+    display: block;
+}
